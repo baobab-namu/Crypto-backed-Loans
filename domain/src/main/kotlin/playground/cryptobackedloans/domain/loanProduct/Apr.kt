@@ -1,7 +1,7 @@
 package playground.cryptobackedloans.domain.loanProduct
 
-import playground.cryptobackedloans.domain.vo.Ltv
-import playground.cryptobackedloans.domain.vo.Rate
+import playground.cryptobackedloans.domain.common.vo.Ltv
+import playground.cryptobackedloans.domain.common.vo.Rate
 import java.time.LocalDateTime
 
 /**

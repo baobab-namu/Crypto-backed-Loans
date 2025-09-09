@@ -1,4 +1,4 @@
-package playground.cryptobackedloans.domain.vo
+package playground.cryptobackedloans.domain.common.vo
 
 import java.math.BigDecimal
 

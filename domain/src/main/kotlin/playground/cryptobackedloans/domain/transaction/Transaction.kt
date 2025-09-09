@@ -1,6 +1,6 @@
 package playground.cryptobackedloans.domain.transaction
 
-import playground.cryptobackedloans.domain.vo.Quantity
+import playground.cryptobackedloans.domain.common.vo.Quantity
 import java.time.LocalDateTime
 
 /**
