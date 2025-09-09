@@ -5,7 +5,5 @@ plugins {
 }
 
 dependencies {
-//    implementation project(':shared')
     implementation(project(":domain"))
-//    implementation project(':app:infrastructure')
 }
