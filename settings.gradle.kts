@@ -1,8 +1,7 @@
 rootProject.name = "crypto-backed-loans"
 
-include("batch")
+//include("batch")
 include("domain")
-include("shared")
 
 include("app")
 
