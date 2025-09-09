@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/crypto-backed-loans
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1234
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
