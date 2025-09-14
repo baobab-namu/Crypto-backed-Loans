@@ -5,6 +5,5 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":app:application"))
-    implementation(project(":app:infrastructure"))
+    implementation(project(":domain"))
 }

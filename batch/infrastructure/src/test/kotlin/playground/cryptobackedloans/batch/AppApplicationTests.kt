@@ -1,4 +1,4 @@
-package playground.cryptobackedloans.app.client
+package playground.cryptobackedloans.batch.app
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

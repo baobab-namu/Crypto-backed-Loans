@@ -2,9 +2,10 @@ plugins {
     id("base-conventions")
     id("kotlin-conventions")
     id("spring-conventions")
+    id("test-conventions")
 }
 
 dependencies {
-    implementation(project(":app:application"))
-    implementation(project(":app:infrastructure"))
+    implementation(project(":domain"))
+
 }
